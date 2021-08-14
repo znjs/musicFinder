@@ -1,0 +1,35 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  margin: 0;
+  /* background-image: url("https://free4kwallpapers.com/uploads/originals/2021/01/20/music-wallpaper.jpg"); */
+  background: linear-gradient(90deg, #f6b6b5, #bde0dc);
+}
+
+button {
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  margin: 0.5rem 1rem;
+  border-radius: 0.8rem;
+  border: 1px solid black;
+}
+
+hr {
+  width: 70%;
+}
+
+.itemHolder {
+  /* background-color: aquamarine; */
+  width: 40%;
+  margin: auto;
+  text-align: left;
+}
+.innerDiv {
+  border: 1px solid #8d7989;
+  border-radius: 0.5rem;
+  padding: 0 1rem;
+  margin: 0.5rem 0;
+}
